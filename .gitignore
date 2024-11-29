@@ -1,0 +1,9 @@
+# -- Visual Studio Specific --
+*.user
+.vs
+/src/scrummage/x64/
+/src/unittests/x64/
+/src/packages/
+
+# -- Common --
+/src/libs
